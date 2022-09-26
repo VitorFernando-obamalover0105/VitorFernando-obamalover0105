@@ -1,4 +1,4 @@
-## Hi there, I am using WhatsApp 👋</h2>
+## Hey there, I am using WhatsApp 👋</h2>
 
 ListCod|Nome da tarefa|Versão|Data
 ---|---|---|---
